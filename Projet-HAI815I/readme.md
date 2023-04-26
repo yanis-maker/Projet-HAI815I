@@ -1,3 +1,7 @@
+# Auteur :
+- Yanis Bouallouche IASD 
+- Asma Guarmouche IASD
+
 # Utilisation du programme
 
 - Pour pouvoir lancer le programme il faut avoir **python** et une connexion internet
